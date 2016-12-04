@@ -3,3 +3,4 @@ elm.js
 Main.html
 index.html
 compile.sh
+/distjs/*.js
