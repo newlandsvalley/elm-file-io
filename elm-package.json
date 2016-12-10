@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "File IO",
-    "repository": "https://github.com/newlandsvalley/testfileio.git",
+    "repository": "https://github.com/newlandsvalley/elm-file-io.git",
     "license": "BSD3",
     "source-directories": [
         "src"
